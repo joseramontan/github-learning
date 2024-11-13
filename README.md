@@ -12,3 +12,5 @@ GitHub is a cloud-based platform used for managing files intelligently through G
 4. Commit the changes made in the file.
 5. Pull a request - Pulling a request means you are requesting to the reviewers to apply the changes you have made in the replica branch to the main branch.
 6. Review the pull request and approve the request to merge in the main branch.
+
+Committing changes via Visual Studio Code.
